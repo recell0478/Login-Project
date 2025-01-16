@@ -1,6 +1,6 @@
 # Login-Project
 
-This is a project where I experiment to use MySQL to create a basic login and register web application. In this project, I used tail-wind CSS and React for the front end and Express.js and MySQL for the backend. It is not fully funcitional but through this project I've learned to create a full-stack application.# Login Project
+This is a project where I experiment to use MySQL to create a basic login and register web application. In this project, I used tail-wind CSS and React for the front end and Express.js and MySQL for the backend. It is not fully funcitional but through this project I've learned to create a full-stack application.
 
 This project is my exploration into building a basic login and registration web application using **MySQL**. Through this hands-on experience, I learned how to create a full-stack application while experimenting with key technologies for both the frontend and backend. 
 
